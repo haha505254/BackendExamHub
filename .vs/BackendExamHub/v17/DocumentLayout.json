@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\None123\\Desktop\\BackendExamHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13A9D068-EC94-ECCD-C103-2D16B921D0BB}|BackendExamHub.csproj|c:\\users\\none123\\desktop\\backendexamhub\\services\\sqldbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A9D068-EC94-ECCD-C103-2D16B921D0BB}|BackendExamHub.csproj|solutionrelative:services\\sqldbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A9D068-EC94-ECCD-C103-2D16B921D0BB}|BackendExamHub.csproj|c:\\users\\none123\\desktop\\backendexamhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A9D068-EC94-ECCD-C103-2D16B921D0BB}|BackendExamHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A9D068-EC94-ECCD-C103-2D16B921D0BB}|BackendExamHub.csproj|c:\\users\\none123\\desktop\\backendexamhub\\controllers\\acpdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A9D068-EC94-ECCD-C103-2D16B921D0BB}|BackendExamHub.csproj|solutionrelative:controllers\\acpdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A9D068-EC94-ECCD-C103-2D16B921D0BB}|BackendExamHub.csproj|c:\\users\\none123\\desktop\\backendexamhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13A9D068-EC94-ECCD-C103-2D16B921D0BB}|BackendExamHub.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ACPDController.cs",
+              "DocumentMoniker": "C:\\Users\\None123\\Desktop\\BackendExamHub\\Controllers\\ACPDController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ACPDController.cs",
+              "ToolTip": "C:\\Users\\None123\\Desktop\\BackendExamHub\\Controllers\\ACPDController.cs",
+              "RelativeToolTip": "Controllers\\ACPDController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:46:39.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\None123\\Desktop\\BackendExamHub\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\None123\\Desktop\\BackendExamHub\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:36:00.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlDbService.cs",
+              "DocumentMoniker": "C:\\Users\\None123\\Desktop\\BackendExamHub\\Services\\SqlDbService.cs",
+              "RelativeDocumentMoniker": "Services\\SqlDbService.cs",
+              "ToolTip": "C:\\Users\\None123\\Desktop\\BackendExamHub\\Services\\SqlDbService.cs",
+              "RelativeToolTip": "Services\\SqlDbService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:34:51.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\None123\\Desktop\\BackendExamHub\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\None123\\Desktop\\BackendExamHub\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T11:30:34.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
